@@ -3,7 +3,7 @@ name: 'Terraform CI'
 on:
   push:
     branches: 
-    - child
+    - child1
   pull_request:
     branches: 
     - master
