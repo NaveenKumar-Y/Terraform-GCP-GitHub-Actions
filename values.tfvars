@@ -1,5 +1,5 @@
 machine_type = "e2-medium"
-vm_name = "test-2109"
+vm_name = "test-naveen"
 zone = "us-central1-a"
 boot_image = "debian-cloud/debian-11"
 network_name = "default"
