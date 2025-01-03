@@ -1,7 +1,7 @@
 machine_type = "e2-medium"
 vm_name = "test-2109"
 zone = "us-central1-a"
-boot_image = "e2-medium"
+boot_image = "debian-cloud/debian-11"
 network_name = "default"
 project_name = "gcp-hum-tachyons"
 
